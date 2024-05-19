@@ -1,7 +1,3 @@
-Certainly! Here's a polished version of your README file:
-
----
-
 # Recommendation System and Analytics Engine
 
 ## Overview
