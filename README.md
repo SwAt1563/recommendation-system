@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the solution for the skill set assessment task assigned by [Company Name]. The task involves creating an analytics engine to produce various reports, insights, and analyses using the provided datasets. The primary goal was to develop a recommendation system based on system scores for multiple users across different categories such as content, contacts, and events.
+This repository contains the solution for the skill set assessment task. The task involves creating an analytics engine to produce various reports, insights, and analyses using the provided datasets. The primary goal was to develop a recommendation system based on system scores for multiple users across different categories such as content, contacts, and events.
 
 ## Datasets
 
