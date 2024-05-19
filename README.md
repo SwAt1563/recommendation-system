@@ -42,7 +42,7 @@ The datasets provided include:
 4. **Events Dataset**
    - Removed empty column: `organisation_id`.
    - Corrected `location` value for `id` 854 from ',' to 'online'.
-   - Processed the row with `id` 438, which had 68 concatenated records in the `title` field, by identifying the erroneous row, extracting and parsing the concatenated string to individual records, splitting them into 68 distinct rows, reinserting these rows back into the dataset, and verifying the consistency and accuracy of all other fields.
+   - Processed the row with `id` 438, which had 68 concatenated records in the `title` field, by identifying the erroneous row, extracting and parsing the concatenated string into individual records, splitting them into 68 distinct rows, reinserting these rows back into the dataset, and verifying the consistency and accuracy of all other fields. As seen in the figure below, all 68 records were originally placed in one row in the `title` field.
 ![row 438](https://github.com/SwAt1563/recommendation-system/assets/79475839/c0fbe17c-9c84-43a8-9bb4-83c24debb998)
 
    - Reformatted `Price` column: converted 'Free' to 0 and string values to float.
