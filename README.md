@@ -96,16 +96,38 @@ A collaborative filtering recommendation system was developed for content recomm
 #### Tool
 - **Power BI Desktop**
 
+Certainly! Here’s the enhanced format for the reports section:
+
+---
+
 #### Reports
+
 Various reports covering all datasets were created and visualized in Power BI:
-1. Users
-2. Organizations
-3. Contents
-4. Contacts
-5. Events
-6. Content Recommendations System
-7. Contact Recommendations System
-8. Event Recommendations System
+
+1. **Users**
+   ![Users Report](https://github.com/SwAt1563/recommendation-system/assets/79475839/9aeab5f1-a810-4b08-908a-6c1995bbd55f)
+
+2. **Organizations**
+   ![Organizations Report](https://github.com/SwAt1563/recommendation-system/assets/79475839/e21b6950-0aa6-4211-b18b-ebdcd1ac6e8e)
+
+3. **Contents**
+   ![Contents Report](https://github.com/SwAt1563/recommendation-system/assets/79475839/3d395d95-a2c0-4b6a-9a6b-9d38568871db)
+
+4. **Contacts**
+   ![Contacts Report](https://github.com/SwAt1563/recommendation-system/assets/79475839/71707ccc-8f0e-47c3-b91d-b5a1e8c6accd)
+
+5. **Events**
+   ![Events Report](https://github.com/SwAt1563/recommendation-system/assets/79475839/90ce93a0-0f35-4eab-9ce7-c78944d101b2)
+
+6. **Content Recommendations System**
+   ![Content Recommendations Report](https://github.com/SwAt1563/recommendation-system/assets/79475839/8052e426-ceca-4206-95a0-500a0cb4a760)
+
+7. **Contact Recommendations System**
+   ![Contact Recommendations Report](https://github.com/SwAt1563/recommendation-system/assets/79475839/c1468aea-3f96-4da9-b299-69f4faf907e6)
+
+8. **Event Recommendations System**
+   ![Event Recommendations Report](https://github.com/SwAt1563/recommendation-system/assets/79475839/f994ae38-028b-444e-901f-606ed85c4544)
+
 
 ## Repository Structure
 
