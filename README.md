@@ -43,14 +43,16 @@ The datasets provided include:
    - Removed empty column: `organisation_id`.
    - Corrected `location` value for `id` 854 from ',' to 'online'.
    - Processed the row with `id` 438, which had 68 concatenated records in the `title` field, by identifying the erroneous row, extracting and parsing the concatenated string to individual records, splitting them into 68 distinct rows, reinserting these rows back into the dataset, and verifying the consistency and accuracy of all other fields.
+![row 438](https://github.com/SwAt1563/recommendation-system/assets/79475839/c0fbe17c-9c84-43a8-9bb4-83c24debb998)
+
    - Reformatted `Price` column: converted 'Free' to 0 and string values to float.
    - Reformatted `location` into three columns: `meeting`, `state`, `city`.
 
-5. **Contacts Dataset**
+6. **Contacts Dataset**
    - Removed empty columns: `organisation_id`, `picture_name`, `position`, `gender`, `phone_number`.
    - Removed unhelpful column: `role_id` (all records had the same value).
 
-6. **Recommendations Dataset**
+7. **Recommendations Dataset**
    - Removed empty column: `user_score`.
 
 ### 2. Categorizing Recommendations
